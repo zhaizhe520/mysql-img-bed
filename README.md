@@ -1,2 +1,4 @@
 # my-img-bed
-数据库图床
+
+
+<div style="color:pink">数据库图床</div>
